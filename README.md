@@ -1,5 +1,5 @@
 # Pemrograman Berorientasi Objek
 
-  Dian Zur Indah Kumala
-  06.2019.1.07111
-  v
+  </br>Nama : Dian Zur Indah Kumala</br>
+  NPM : 06.2019.1.07111</br>
+  Kelas : v</br>
